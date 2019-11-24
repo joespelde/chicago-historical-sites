@@ -1,0 +1,5165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11396",
+        " title": " New York Life Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.632071,
+          41.880918
+        ],
+        "type": "Point"
+      },
+      "id": "005a6efc5533757ca54e71340c270f83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13024",
+        " title": " Lorraine Hansberry House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.612427,
+          41.782747
+        ],
+        "type": "Point"
+      },
+      "id": "007a87915e43b2437c9ea028d381523c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1326&amp;counter=149",
+        " title": " Hitchcock House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.768127,
+          41.891269
+        ],
+        "type": "Point"
+      },
+      "id": "012979a319a01b5edec85883d7d3c050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=29",
+        " title": " Seven Houses on Lake Shore Drive District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626679,
+          41.910102
+        ],
+        "type": "Point"
+      },
+      "id": "017d4549493d99c031a545781ccc962b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1241&amp;counter=14",
+        " title": " American System-Built Houses"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.673889,
+          41.701585
+        ],
+        "type": "Point"
+      },
+      "id": "01ab2ddd64da30c739b8e2d54fda4892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13091&amp;counter=53",
+        " title": " Chicago & Northwestern Railway Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.639189,
+          41.888483
+        ],
+        "type": "Point"
+      },
+      "id": "041b141d7c49fcc501920b44ac21dc94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=26",
+        " title": " Prairie Avenue District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.62099,
+          41.857752
+        ],
+        "type": "Point"
+      },
+      "id": "05c35a82541a039c46b0fc24dcbb454a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1304&amp;counter=117",
+        " title": " Fisher Studio Houses"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.628314,
+          41.904276
+        ],
+        "type": "Point"
+      },
+      "id": "06c9f26ed7f2c702609c27d6a0c6fb53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=163&amp;counter=44",
+        " title": " Cermak Road Bridge District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.804488,
+          41.85029
+        ],
+        "type": "Point"
+      },
+      "id": "07245bcaa45c8aa02c505d6a20cb13f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1275&amp;counter=63",
+        " title": " Chicago Theater"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627505,
+          41.885391
+        ],
+        "type": "Point"
+      },
+      "id": "083d9a5c2f5ac4a28e0007bc3bc45ebd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1306&amp;counter=120",
+        " title": " Former Chicago Historical Society Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629988,
+          41.893381
+        ],
+        "type": "Point"
+      },
+      "id": "085b55fa3559d518c09ab355d3a2304b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=3&amp;counter=17",
+        " title": " Armitage-Halsted District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.727766,
+          41.917175
+        ],
+        "type": "Point"
+      },
+      "id": "09f4a8d323a79cbb588a1e160a0d9a6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12862",
+        " title": " Marquette Park State Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.683703,
+          41.778791
+        ],
+        "type": "Point"
+      },
+      "id": "0b9a1d4e4606e69d2c54b16a4956e50e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1395",
+        " title": " Palmolive Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623591,
+          41.899767
+        ],
+        "type": "Point"
+      },
+      "id": "0bbd5266d0f98e88f3fcf5a42badd708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12011",
+        " title": " Old Chicago Coast Guard Station"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623265,
+          41.888515
+        ],
+        "type": "Point"
+      },
+      "id": "0bc6f77095f441a8d86ca61d4821182c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13342&amp;counter=138",
+        " title": " Harriet F. Rees House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.621009,
+          41.853932
+        ],
+        "type": "Point"
+      },
+      "id": "0c1ee6060add52b3b6700e27eb270fb5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13003",
+        " title": " Third Unitarian Church Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.771605,
+          41.88589
+        ],
+        "type": "Point"
+      },
+      "id": "0c4de0dc51bfae9954855f5bad4fe565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13304",
+        " title": " White Castle #16"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625337,
+          41.852622
+        ],
+        "type": "Point"
+      },
+      "id": "0e1e23ea790469f603cc541c65b9ac2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1432",
+        " title": " Lorado Taft's Midway Studios"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.603131,
+          41.785544
+        ],
+        "type": "Point"
+      },
+      "id": "0e7b0175fa7efa2d122a68adc8b4aa37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1257&amp;counter=68",
+        " title": " Clarence Buckingham Memorial Fountain and Garden"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.621121,
+          41.87328
+        ],
+        "type": "Point"
+      },
+      "id": "0e7b0dc381f9419d148f2c330db531b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11387&amp;counter=142",
+        " title": " Hazelton-Mikota House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.753902,
+          41.98108
+        ],
+        "type": "Point"
+      },
+      "id": "10b9f845f77923c5582f73b5a4b7af67"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1333&amp;counter=160",
+        " title": " Iglehart House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.682671,
+          41.691141
+        ],
+        "type": "Point"
+      },
+      "id": "13ab6c885b17380930c179df57d5a7b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12152",
+        " title": " McCormick Double House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625771,
+          41.894294
+        ],
+        "type": "Point"
+      },
+      "id": "148d7a0d5f54c45cbe1021efab6792af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1433",
+        " title": " Thalia Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.657177,
+          41.857809
+        ],
+        "type": "Point"
+      },
+      "id": "14b104a6009c4598bd5890a60236770e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1255&amp;counter=32",
+        " title": " Brooks Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.634545,
+          41.877977
+        ],
+        "type": "Point"
+      },
+      "id": "177e537671da0932ec27191b3580343b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13022",
+        " title": " Veseman Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.632867,
+          41.890487
+        ],
+        "type": "Point"
+      },
+      "id": "1782a720a45b4934947ea709a8db76ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13042&amp;counter=183",
+        " title": " Kimbell Trust &amp; Savings Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.717301,
+          41.924896
+        ],
+        "type": "Point"
+      },
+      "id": "18ad003fb109c7712cb7ba6d87780528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11584",
+        " title": " Marshall Field and Company Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627397,
+          41.883893
+        ],
+        "type": "Point"
+      },
+      "id": "18afe2271430b6209757fd7feef252b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1319&amp;counter=139",
+        " title": " Harris and Selwyn Theaters"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629745,
+          41.88532
+        ],
+        "type": "Point"
+      },
+      "id": "193bcc7a55480840e8b766b072dcc235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=27",
+        " title": " Printing House Row District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.628501,
+          41.84187
+        ],
+        "type": "Point"
+      },
+      "id": "1987ef2dc6439e212c69dd4775a83697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1354",
+        " title": " Lathrop House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625001,
+          41.901876
+        ],
+        "type": "Point"
+      },
+      "id": "19b2e7cff05c9cfa908bba1c34490991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12153",
+        " title": " Mundelein College Skyscraper Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.656615,
+          41.998694
+        ],
+        "type": "Point"
+      },
+      "id": "1c8f57b968f063661c6b77fe96b98614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1357",
+        " title": " London Guarantee Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624914,
+          41.887947
+        ],
+        "type": "Point"
+      },
+      "id": "1d8de6d983375d75583918a086446c25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1520",
+        " title": " Wrigley Field"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.656053,
+          41.947447
+        ],
+        "type": "Point"
+      },
+      "id": "1e032422d329a35ca727b840703544a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1346&amp;counter=179",
+        " title": " Kenna Apartments"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.570828,
+          41.770069
+        ],
+        "type": "Point"
+      },
+      "id": "1e9432554b216bf91564d7a5b7ca3567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1280&amp;counter=70",
+        " title": " Colvin House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.655805,
+          41.990334
+        ],
+        "type": "Point"
+      },
+      "id": "1e9897fa5a48e1e3dbc80711a8a5a1eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1318&amp;counter=136",
+        " title": " Groesbeck House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.660055,
+          41.883192
+        ],
+        "type": "Point"
+      },
+      "id": "1ffd0814fd5fa2158794057b2593be53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13323",
+        " title": " Schlitz Brewery-Tied House at 3159 N. Southport Ave. (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.663411,
+          41.939638
+        ],
+        "type": "Point"
+      },
+      "id": "1ffebff447c779995875c219b8ef14a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13149&amp;counter=12",
+        " title": " American Book Company Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.619454,
+          41.853014
+        ],
+        "type": "Point"
+      },
+      "id": "20fe37cd8a54e2ba42840e5110d6ec54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1301&amp;counter=114",
+        " title": " First Baptist Congregational Church"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.667239,
+          41.883049
+        ],
+        "type": "Point"
+      },
+      "id": "218fc34d904caa9ec46f834e16885bc8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13148&amp;counter=84",
+        " title": " Dr. Philip Weintraub House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.7112,
+          41.985928
+        ],
+        "type": "Point"
+      },
+      "id": "2435d89f5a902a6db7b7a7afef660f49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1260&amp;counter=36",
+        " title": " Cable House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627083,
+          41.893935
+        ],
+        "type": "Point"
+      },
+      "id": "259c72ac86a5b376d881774da6e05def"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1382",
+        " title": " Northwestern University Settlement House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.662735,
+          41.900017
+        ],
+        "type": "Point"
+      },
+      "id": "25e3a09f269fbc793eecad22b1732a5f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1307",
+        " title": " Site of Fort Dearborn"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624428,
+          41.8883
+        ],
+        "type": "Point"
+      },
+      "id": "26ed77d20aa67cab13fb6a232562673f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1316&amp;counter=133",
+        " title": " Goldblatt Bros. Department Store"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.668157,
+          41.89583
+        ],
+        "type": "Point"
+      },
+      "id": "278df96cbcee6d34b0da7c16a15c9268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1411",
+        " title": " Reid Murdoch &amp; Co. Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.631517,
+          41.888333
+        ],
+        "type": "Point"
+      },
+      "id": "285ce1eac1363ec883604d257cf23ba9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1299&amp;counter=112",
+        " title": " Field Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.631788,
+          41.879785
+        ],
+        "type": "Point"
+      },
+      "id": "28853542a8266b5cfbb0b625d767a2c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1350",
+        " title": " Krause Music Store"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.686102,
+          41.965301
+        ],
+        "type": "Point"
+      },
+      "id": "289a4436430ad34f6aa6bc9642f628eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13147&amp;counter=126",
+        " title": " Garfield Park Fieldhouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.716257,
+          41.882677
+        ],
+        "type": "Point"
+      },
+      "id": "2914a9568b155fe527334e6ed1071912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1310&amp;counter=124",
+        " title": " Gage Group"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624848,
+          41.881175
+        ],
+        "type": "Point"
+      },
+      "id": "2972c7ec068c03dc367975bfbd32cb03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1380",
+        " title": " Noble-Seymour-Crippen House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.795829,
+          41.983421
+        ],
+        "type": "Point"
+      },
+      "id": "29e6055cef7ae585435ebdac81d93119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1440",
+        " title": " Union Station"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.640155,
+          41.878657
+        ],
+        "type": "Point"
+      },
+      "id": "2a1fee09fefe9a2f1aade6ad5aad2c3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13083&amp;counter=123",
+        " title": " Fullerton State Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.66441,
+          41.924946
+        ],
+        "type": "Point"
+      },
+      "id": "2a3000d2c437b30949ad36ce33eac4fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11973&amp;counter=106",
+        " title": " Engine Company 78"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.656573,
+          41.949308
+        ],
+        "type": "Point"
+      },
+      "id": "2cd31912ed6097f393f7a060e781954a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=28",
+        " title": " Pullman District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.713914,
+          41.684058
+        ],
+        "type": "Point"
+      },
+      "id": "2d2e42e4f2b26a1724cd5c196326fea6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1278&amp;counter=67",
+        " title": " Civic Opera Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.637261,
+          41.882608
+        ],
+        "type": "Point"
+      },
+      "id": "2e6ac8dc4493e1c8649d11c6c9bb40fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11394&amp;counter=170",
+        " title": " James Ward Public School"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.635156,
+          41.84345
+        ],
+        "type": "Point"
+      },
+      "id": "2f74d84821e28e4b8ebe356a813650a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1265&amp;counter=45",
+        " title": " Chapin and Gore Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625486,
+          41.879368
+        ],
+        "type": "Point"
+      },
+      "id": "2faf7df6e774664b6d6f59e501543c2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11983&amp;counter=107",
+        " title": " Engine Company 84 Truck 51"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.646414,
+          41.781176
+        ],
+        "type": "Point"
+      },
+      "id": "3005c58a465f9e2ef85ca8c76782c3b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1263&amp;counter=41",
+        " title": " Carbide and Carbon Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624901,
+          41.886573
+        ],
+        "type": "Point"
+      },
+      "id": "32177753e47c68cb54155548ab030d45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13203&amp;counter=150",
+        " title": " Holden Block"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.653299,
+          41.881423
+        ],
+        "type": "Point"
+      },
+      "id": "32bf168a54050b8be45092947a9faf3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1347&amp;counter=180",
+        " title": " Kent House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623938,
+          41.840688
+        ],
+        "type": "Point"
+      },
+      "id": "32f9f826333a9865310c511d447f32a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1329&amp;counter=171",
+        " title": " Jane Addams Hull-House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.647457,
+          41.871616
+        ],
+        "type": "Point"
+      },
+      "id": "333cfb9829a675d32598fbbb029b062b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=33",
+        " title": " Washington Park Court District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.615301,
+          41.805619
+        ],
+        "type": "Point"
+      },
+      "id": "33b7943a34461de2c100fb471b9b421a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13104&amp;counter=50",
+        " title": " Chicago &amp; Alton Railway Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.661215,
+          41.834673
+        ],
+        "type": "Point"
+      },
+      "id": "342c825002f1b5722290919228306f7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1407",
+        " title": " Raber House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626948,
+          41.789202
+        ],
+        "type": "Point"
+      },
+      "id": "34ca62b6d854d0597e20b912e8eaad0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13142&amp;counter=162",
+        " title": " Illinois Central Railroad Swing Bridge 2"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.62383,
+          41.847846
+        ],
+        "type": "Point"
+      },
+      "id": "35c21fe268b1370350e6909afa42e738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13223",
+        " title": " Schlitz Brewery-Tied House at 1801 W. Division Street (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.672502,
+          41.90302
+        ],
+        "type": "Point"
+      },
+      "id": "360031b7d841e5a5d70dd497f29ebf55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1422",
+        " title": " Second Presbyterian Church"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624391,
+          41.85573
+        ],
+        "type": "Point"
+      },
+      "id": "369c9776f1ee16c25db29211af6ad508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=31",
+        " title": " Villa District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.723552,
+          41.940951
+        ],
+        "type": "Point"
+      },
+      "id": "37764f3742ea1d1e84cbee49b3c5d7d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1394",
+        " title": " Palliser's Cottage Home No. 35"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.679416,
+          41.691057
+        ],
+        "type": "Point"
+      },
+      "id": "38d9c3125fe62944211dacfdc59e7baa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=7&amp;counter=34",
+        " title": " Burling Row House District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.647256,
+          41.922607
+        ],
+        "type": "Point"
+      },
+      "id": "39387fbafae2e207074446f2609a76e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1286&amp;counter=78",
+        " title": " Dearborn Street Station"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629048,
+          41.871763
+        ],
+        "type": "Point"
+      },
+      "id": "39949446dc0624bd6d7a8de594e854ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1251&amp;counter=26",
+        " title": " Biograph Theater"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.649787,
+          41.926342
+        ],
+        "type": "Point"
+      },
+      "id": "39a2b253f61fb49f00b54116c113f9c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13143",
+        " title": " Lake Shore &amp; Michigan Southern Railway Bridges"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.55679,
+          41.693815
+        ],
+        "type": "Point"
+      },
+      "id": "3af76858d5b2a1ff3d763aa3a98fa1e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1453&amp;counter=159",
+        " title": " Ida B. Wells - Barnett House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.617675,
+          41.828574
+        ],
+        "type": "Point"
+      },
+      "id": "3c57396196d5f0ccc7ea0a071b979e99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1297&amp;counter=109",
+        " title": " Essanay Studios"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.662791,
+          41.972359
+        ],
+        "type": "Point"
+      },
+      "id": "3d0e3ccec611bef4a2c98e94f7a5499d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1414",
+        " title": " Roloson Houses"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.617837,
+          41.836127
+        ],
+        "type": "Point"
+      },
+      "id": "3e3cebad4605485364169009223c47d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1545&amp;counter=95",
+        " title": " Elks National Memorial Headquarters Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.639998,
+          41.932286
+        ],
+        "type": "Point"
+      },
+      "id": "3e9c50743a85139be85652e0a61f253d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13025",
+        " title": " Lindemann &amp; Hoverson Co. Showroom and Warehouse Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.692047,
+          41.883318
+        ],
+        "type": "Point"
+      },
+      "id": "3ee54004281ba03575aa71f3d35be189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1314&amp;counter=130",
+        " title": " Getty Tomb"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.661811,
+          41.954604
+        ],
+        "type": "Point"
+      },
+      "id": "41545b14d52c20dc9cd11ee70c0bfa80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1419",
+        " title": " Schoenhofen Brewery"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.639982,
+          41.857638
+        ],
+        "type": "Point"
+      },
+      "id": "41cfa67f1fba59a262d691f9638e16bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1523",
+        " title": " Trustees System Service Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.633709,
+          41.88603
+        ],
+        "type": "Point"
+      },
+      "id": "42b85a0ade3e988793c342897945248a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1237&amp;counter=10",
+        " title": " Allerton Hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623704,
+          41.895173
+        ],
+        "type": "Point"
+      },
+      "id": "42dc8a5fad5fe4da06e836c28f6b1bf2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1377",
+        " title": " Navy Pier Headhouse and Auditorium"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.614379,
+          41.891895
+        ],
+        "type": "Point"
+      },
+      "id": "42fc0158cd597d2a46fff71a337f0485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13067",
+        " title": " South Side Trust and Savings Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.606102,
+          41.809717
+        ],
+        "type": "Point"
+      },
+      "id": "434df0c611e1012dbb942ba9c42bd49f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1313&amp;counter=145",
+        " title": " Henry Gerber House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.636001,
+          41.913212
+        ],
+        "type": "Point"
+      },
+      "id": "4387603a8f09ec29c75ec63966067e15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1527&amp;counter=146",
+        " title": " Henry V. Peters House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.743768,
+          41.967163
+        ],
+        "type": "Point"
+      },
+      "id": "4424c20bc9456c61dbfebe1d524a98f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11389",
+        " title": " Majestic Building and Theater"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.628613,
+          41.880866
+        ],
+        "type": "Point"
+      },
+      "id": "450e108ce5ccb349cbc8d6dd3aa905dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1376",
+        " title": " Museum of Science and Industry"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.580155,
+          41.792432
+        ],
+        "type": "Point"
+      },
+      "id": "451ec96d8989541ec9fe4a3005aa7702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1284&amp;counter=76",
+        " title": " Crown Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627297,
+          41.833281
+        ],
+        "type": "Point"
+      },
+      "id": "455599919fe0e8cba02c9d02a0385b1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1417",
+        " title": " Site of the Sauganash Hotel/Wigwam"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.031907,
+          41.950281
+        ],
+        "type": "Point"
+      },
+      "id": "4764283063ba820354f350019bc5974d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1353",
+        " title": " LaSalle Street Cable Car Powerhouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.63302,
+          41.890955
+        ],
+        "type": "Point"
+      },
+      "id": "48b22948b9073e98a236abd9b63a8901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13150&amp;counter=61",
+        " title": " Chicago Orphan Asylum Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.616552,
+          41.80136
+        ],
+        "type": "Point"
+      },
+      "id": "4a7c11ca569043bdc115da1d9eb50c6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1277&amp;counter=66",
+        " title": " City Hall-County Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.631936,
+          41.883867
+        ],
+        "type": "Point"
+      },
+      "id": "4a81a3a34aad9f0e253df6e4ebf44d65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1360",
+        " title": " Madlener House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629165,
+          41.909629
+        ],
+        "type": "Point"
+      },
+      "id": "4b230a2159a75f79a2fc0ee00457dd9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=10&amp;counter=118",
+        " title": " Five Houses on Avers Avenue District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.721321,
+          41.853205
+        ],
+        "type": "Point"
+      },
+      "id": "4d1f011dc34ffa880b60448255de423b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13007",
+        " title": " Old Republic Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624209,
+          41.887073
+        ],
+        "type": "Point"
+      },
+      "id": "4d1fbef8628755f0dc499af04981f755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=32",
+        " title": " Walter Burley Griffin Place District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.652461,
+          41.704086
+        ],
+        "type": "Point"
+      },
+      "id": "4dd8b12d273d77b08355a3a69d673fb5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1420",
+        " title": " Schurz High School"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.735286,
+          41.947465
+        ],
+        "type": "Point"
+      },
+      "id": "4e7b040d74f637a5d1f8e243e2a62278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1526",
+        " title": " St. Gelasius Church Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.595796,
+          41.778384
+        ],
+        "type": "Point"
+      },
+      "id": "4e96c32e9cfad936041e874747f37279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1366",
+        " title": " McGraw-Hill Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626163,
+          41.892101
+        ],
+        "type": "Point"
+      },
+      "id": "4eb01b8a43ab3a5caf0707a5cff23541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=14&amp;counter=167",
+        " title": " Jackson Boulevard District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.701097,
+          41.877368
+        ],
+        "type": "Point"
+      },
+      "id": "4eb8cde757cc8b2bcafa432b79c41ea5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1352",
+        " title": " Laramie State Bank Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.755835,
+          41.895203
+        ],
+        "type": "Point"
+      },
+      "id": "4ef4f97af1d36d751e3a2fbfd750ac58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1443",
+        " title": " Uptown Theatre"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.660005,
+          41.969518
+        ],
+        "type": "Point"
+      },
+      "id": "509d98661f836927a03a5ab5b8618aba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1367",
+        " title": " Medinah Temple"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627119,
+          41.892889
+        ],
+        "type": "Point"
+      },
+      "id": "516f50deeeca0f2a06c2bf89a5bef92c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11980&amp;counter=101",
+        " title": " Engine Company 45 Truck 15"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.606892,
+          41.811189
+        ],
+        "type": "Point"
+      },
+      "id": "51c793cde1e28685c3e6424c2f5cd9da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1448",
+        " title": " Walser House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.765315,
+          41.881524
+        ],
+        "type": "Point"
+      },
+      "id": "52f4c99ce2042d98b7f066f501d6bbde"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13062",
+        " title": " Nickel (Richard) Studio"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.67322,
+          41.916176
+        ],
+        "type": "Point"
+      },
+      "id": "53e266ea2e961676eac002a24808e3ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13085&amp;counter=58",
+        " title": " Chicago City Bank and Trust Company (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.645521,
+          41.779531
+        ],
+        "type": "Point"
+      },
+      "id": "54cd85688c7032190ba4c40b188a9bb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1544&amp;counter=111",
+        " title": " Farwell Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624595,
+          41.894362
+        ],
+        "type": "Point"
+      },
+      "id": "54f8e3c0bf17cfc417c900e48e9f26ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11982&amp;counter=103",
+        " title": " Engine Company 59 Truck 47"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.663992,
+          41.985752
+        ],
+        "type": "Point"
+      },
+      "id": "55f7f0a87ac90bf2e9b425c3b590bd4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1546&amp;counter=86",
+        " title": " Drake Fountain"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.55079,
+          41.728137
+        ],
+        "type": "Point"
+      },
+      "id": "56eea71f908aaac97e08f48f6d3744a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1547",
+        " title": " R. R. Donnelley &amp; Sons Co. Calumet Plant"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.618252,
+          41.853701
+        ],
+        "type": "Point"
+      },
+      "id": "5879866523eaa03e88c7efc38eab3a3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1362",
+        " title": " Marie Schock House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.769698,
+          41.889816
+        ],
+        "type": "Point"
+      },
+      "id": "58f368f95002693e5ede6f2598a67733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=4&amp;counter=19",
+        " title": " Astor Street District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627555,
+          41.907797
+        ],
+        "type": "Point"
+      },
+      "id": "59e64a3cc808933085af29b35a674939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1429",
+        " title": " St. Ignatius College Prep Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.654054,
+          41.867422
+        ],
+        "type": "Point"
+      },
+      "id": "59ffd5cae7411692787fef7049ba0538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1238&amp;counter=9",
+        " title": " All Saints Church and Rectory"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.673023,
+          41.964984
+        ],
+        "type": "Point"
+      },
+      "id": "5a1e814c99a56554a912f688efe9baed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1322",
+        " title": " Site of the Haymarket Tragedy"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.644211,
+          41.884422
+        ],
+        "type": "Point"
+      },
+      "id": "5c46ebf5927026d5fc37fc22c461843a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13202",
+        " title": " Spiegel Administration Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.65202,
+          41.830962
+        ],
+        "type": "Point"
+      },
+      "id": "5d2def70decc49d850b9eef9253a99d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1363",
+        " title": " Marquette Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629547,
+          41.879798
+        ],
+        "type": "Point"
+      },
+      "id": "5d4da50f71cec3f6f0a9e8c67acd4ef6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=17",
+        " title": " Longwood Drive District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.671096,
+          41.707849
+        ],
+        "type": "Point"
+      },
+      "id": "5e8c54b153aa8cdf678d974b0a6405e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1267&amp;counter=49",
+        " title": " Chess Records Office and Studio"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.62406,
+          41.853521
+        ],
+        "type": "Point"
+      },
+      "id": "5ea63c7c98f86551e106696bc429fdf9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1458",
+        " title": " Woman's Athletic Club"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624611,
+          41.893579
+        ],
+        "type": "Point"
+      },
+      "id": "5ee3f8a60f179ef93b869001e740af4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=261&amp;counter=131",
+        " title": " Giles-Calumet District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.619213,
+          41.825624
+        ],
+        "type": "Point"
+      },
+      "id": "5f93fed91c983a3852aacceab50323f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=16&amp;counter=181",
+        " title": " Kenwood District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.607471,
+          41.809506
+        ],
+        "type": "Point"
+      },
+      "id": "5fce0f9ea791e7f9cdd8686fc0558ca2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1522",
+        " title": " West Town State Bank Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.686686,
+          41.881363
+        ],
+        "type": "Point"
+      },
+      "id": "60d8ceb1271a0433a88bbd2278f5fd74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1249&amp;counter=23",
+        " title": " Beeson House and Coach House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.770529,
+          41.88928
+        ],
+        "type": "Point"
+      },
+      "id": "63495f472a62c4ff2c1a426ce96024c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1332",
+        " title": " Site of the Origins of the I&amp;M Canal"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.661215,
+          41.834673
+        ],
+        "type": "Point"
+      },
+      "id": "642532338d53b225695f8f749d7fbcf7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13023",
+        " title": " North Chicago Hospital Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.64235,
+          41.929274
+        ],
+        "type": "Point"
+      },
+      "id": "6584a666336b842026cfdc8ff7acf686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1398",
+        " title": " Perkins Fellows &amp; Hamilton Office and Studio"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624335,
+          41.897265
+        ],
+        "type": "Point"
+      },
+      "id": "68f184a1f54111c3f2daf8677b4b6b44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1454",
+        " title": " Wheeler-Kohn House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.619447,
+          41.854964
+        ],
+        "type": "Point"
+      },
+      "id": "68fc7d951842e849db5108bfe3e6be88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13089&amp;counter=24",
+        " title": " Belmont-Sheffield Trust and Savings Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.654449,
+          41.939746
+        ],
+        "type": "Point"
+      },
+      "id": "69ed81b9df5ac765c9bcc18d0efeba08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1282&amp;counter=73",
+        " title": " Cortland Street Drawbridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.664852,
+          41.917121
+        ],
+        "type": "Point"
+      },
+      "id": "69ff26154a5f669743abe8ca12350eb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=20",
+        " title": " Motor Row District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623462,
+          41.858115
+        ],
+        "type": "Point"
+      },
+      "id": "6aacd5653b40246a57a24331c985abc0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13222",
+        " title": " Schlitz Brewery-Tied House at 5120 N. Broadway (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.660155,
+          41.975247
+        ],
+        "type": "Point"
+      },
+      "id": "6b5f685261542449b62296039313655b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1438",
+        " title": " Turzak House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.813271,
+          42.009537
+        ],
+        "type": "Point"
+      },
+      "id": "6b69bbf3842a80aeeb9d5ea9abfe421a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1400",
+        " title": " Pilgrim Baptist Church"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.621462,
+          41.834451
+        ],
+        "type": "Point"
+      },
+      "id": "6b8e2e6949f2be325e0c07bbcd89e55e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12964",
+        " title": " Vassar Swiss Underwear Company Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.692008,
+          41.932053
+        ],
+        "type": "Point"
+      },
+      "id": "6bab5cb4f261ec7662ac29ea8fb6643c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1335&amp;counter=164",
+        " title": " Immaculata High School and Convent Buildings"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.645859,
+          41.95486
+        ],
+        "type": "Point"
+      },
+      "id": "6bc6daa24968b9672a2f1c5bce150bea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11984&amp;counter=97",
+        " title": " Engine Company 129 Truck 50"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.663461,
+          41.745991
+        ],
+        "type": "Point"
+      },
+      "id": "6c51dc17c2fb0cc49d9427c94fc4ce04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1418",
+        " title": " Schlect House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.770298,
+          41.890361
+        ],
+        "type": "Point"
+      },
+      "id": "6d9c86358dda714f868a0963a8a6410b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13030&amp;counter=129",
+        " title": " Germania Club Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.632386,
+          41.910397
+        ],
+        "type": "Point"
+      },
+      "id": "6de051fa87b6a4c13382170816168529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1323&amp;counter=143",
+        " title": " Heald Square Monument"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626437,
+          41.887057
+        ],
+        "type": "Point"
+      },
+      "id": "6f7ef3403b7e17f2f5ddcdbd1591bd30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1436",
+        " title": " Tree Studios Annexes and Courtyard"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627821,
+          41.893283
+        ],
+        "type": "Point"
+      },
+      "id": "6fbf7af610090407f05bf7a2ec924f33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1437",
+        " title": " Tribune Tower"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623649,
+          41.890362
+        ],
+        "type": "Point"
+      },
+      "id": "7091f2e3fe5abb5c374daf51693f3d12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12962&amp;counter=152",
+        " title": " Home Bank and Trust Company Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.667766,
+          41.903435
+        ],
+        "type": "Point"
+      },
+      "id": "70c0a0738c2ca83ae9b7a5b13472ee4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=181",
+        " title": " Surf-Pine Grove District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.641589,
+          41.933202
+        ],
+        "type": "Point"
+      },
+      "id": "7219788d9e7cb4af5900d41d99057ac9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1264&amp;counter=43",
+        " title": " Carson Pirie Scott and Company Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627524,
+          41.881791
+        ],
+        "type": "Point"
+      },
+      "id": "725b4e4a3504fb3da5a4262e3a3165de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=22",
+        " title": " Oakland District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.601684,
+          41.819538
+        ],
+        "type": "Point"
+      },
+      "id": "72a5da97553140f99f4b77e1abd9a4a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1349&amp;counter=184",
+        " title": " King-Nash House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.70758,
+          41.883065
+        ],
+        "type": "Point"
+      },
+      "id": "72aa4ef9124cc13ae5cd4f4fa8937e57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1274&amp;counter=62",
+        " title": " Chicago Public Library/Cultural Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624962,
+          41.884162
+        ],
+        "type": "Point"
+      },
+      "id": "735ed4f9a80769d881a6f80628be2177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11399&amp;counter=38",
+        " title": " Calumet Park Fieldhouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.530643,
+          41.717829
+        ],
+        "type": "Point"
+      },
+      "id": "73b97cbb85a28a3909509e8e25b38b2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11975&amp;counter=96",
+        " title": " Engine Company 104 Truck 31 (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623764,
+          41.863936
+        ],
+        "type": "Point"
+      },
+      "id": "7439123c91ee5ce5626c76c2d8c5e8c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11384",
+        " title": " Roberts Temple Church of God in Christ Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626001,
+          41.821233
+        ],
+        "type": "Point"
+      },
+      "id": "7583878151c9c52cdf3f99bd69eacd0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13027&amp;counter=137",
+        " title": " Gwendolyn Brooks House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.606883,
+          41.759508
+        ],
+        "type": "Point"
+      },
+      "id": "75b3d8132700ba1458f18e171722a7d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1359",
+        " title": " Ludington Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626273,
+          41.869069
+        ],
+        "type": "Point"
+      },
+      "id": "7609069ca410dff8303be79208b54418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1444",
+        " title": " Victory Monument"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.617297,
+          41.83107
+        ],
+        "type": "Point"
+      },
+      "id": "763d4ab5bd09781cf3686d5fdd6f8880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11400&amp;counter=42",
+        " title": " Carl Sandburg House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.672852,
+          41.966585
+        ],
+        "type": "Point"
+      },
+      "id": "76a4d9fb96072f0d47a47da3f9df18f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1315&amp;counter=132",
+        " title": " Glessner House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.62099,
+          41.857752
+        ],
+        "type": "Point"
+      },
+      "id": "773fd9175a175814f41f8a0ed3ec1c7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11393&amp;counter=80",
+        " title": " Dewes (August) House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.641675,
+          41.930129
+        ],
+        "type": "Point"
+      },
+      "id": "778fe4f4b33ece0f4b00889a7a350ae2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1269&amp;counter=56",
+        " title": " Chicago Board of Trade Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.631854,
+          41.877445
+        ],
+        "type": "Point"
+      },
+      "id": "78c4f28c00209b1fe3536b2aa2cec245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=143&amp;counter=173",
+        " title": " Jewelers Row District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.62254,
+          41.880849
+        ],
+        "type": "Point"
+      },
+      "id": "7a7953b5020800a28ee048ba927b4253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1364",
+        " title": " Mather Tower"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625443,
+          41.887602
+        ],
+        "type": "Point"
+      },
+      "id": "7b4c189d9c163ece11b770453473de0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1320&amp;counter=140",
+        " title": " Haskell-Barker-Atwater Buildings"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625924,
+          41.851923
+        ],
+        "type": "Point"
+      },
+      "id": "7bac4c518bcf513f43e2db610af1db58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1289&amp;counter=82",
+        " title": " Dexter Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626466,
+          41.873698
+        ],
+        "type": "Point"
+      },
+      "id": "7c560dba9ac2c4aad09bafad1f548481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1399",
+        " title": " Wendell Phillips High School"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.6198,
+          41.824358
+        ],
+        "type": "Point"
+      },
+      "id": "7c5af42771b5eaa360ca7075477ed23f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1340&amp;counter=172",
+        " title": " Jewelers Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625071,
+          41.8615
+        ],
+        "type": "Point"
+      },
+      "id": "7c794f2fae917c39f5e7c6ec00a9e486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13103&amp;counter=51",
+        " title": " Chicago &amp; Illinois Western Railway Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.694656,
+          41.599634
+        ],
+        "type": "Point"
+      },
+      "id": "7e5b93e94f4b5431a457e8dd96a51d87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1247&amp;counter=21",
+        " title": " Bach House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.664862,
+          42.016583
+        ],
+        "type": "Point"
+      },
+      "id": "7f892ebfd360684808b0fb3988c496b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11395&amp;counter=119",
+        " title": " Florsheim Shoe Company Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.726534,
+          41.938868
+        ],
+        "type": "Point"
+      },
+      "id": "82bb8114b23bf1af7c25305f7b3aacd8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1449",
+        " title": " Washington Block"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.634052,
+          41.88294
+        ],
+        "type": "Point"
+      },
+      "id": "8331f9adbadad35e851284c58891dab7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=11&amp;counter=141",
+        " title": " Hawthorne Place District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.642343,
+          41.94495
+        ],
+        "type": "Point"
+      },
+      "id": "83926ac5ddff87b5f715606b15832bff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1261&amp;counter=8",
+        " title": " Alfred Caldwell Lily Pool"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.633474,
+          41.921102
+        ],
+        "type": "Point"
+      },
+      "id": "840001bf214968f24d4fae318dcd37a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11388",
+        " title": " Madonna della Strada Chapel"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.658192,
+          41.998996
+        ],
+        "type": "Point"
+      },
+      "id": "864739e3aab7887d9447caf5deb1fc00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1276&amp;counter=64",
+        " title": " Chicago Varnish Company Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629318,
+          41.889017
+        ],
+        "type": "Point"
+      },
+      "id": "8660c67789575b521b3b50dc7ab61623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13145",
+        " title": " Pennsylvania Railroad"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.89491,
+          41.724618
+        ],
+        "type": "Point"
+      },
+      "id": "869415101943f704dc67f4f13ba2f63c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1528",
+        " title": " Pate-Comiskey House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.622205,
+          41.801068
+        ],
+        "type": "Point"
+      },
+      "id": "8717591db4d07dffab44f698878caa89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1406",
+        " title": " Quinn Chapel"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.62508,
+          41.849068
+        ],
+        "type": "Point"
+      },
+      "id": "887240f78a3b23347a67bf969801a3dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1240&amp;counter=13",
+        " title": " American School of Correspondence"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.604046,
+          41.789685
+        ],
+        "type": "Point"
+      },
+      "id": "88879eb59801ddddd177f6ae8f62793d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1254&amp;counter=31",
+        " title": " Brewster Apartments"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.641589,
+          41.933202
+        ],
+        "type": "Point"
+      },
+      "id": "89c2891fe6f0be35bc4673208b0819a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1270&amp;counter=57",
+        " title": " Chicago Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.628185,
+          41.881868
+        ],
+        "type": "Point"
+      },
+      "id": "8b8450364c3b9eda83bbe8dc88fe2f12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1427",
+        " title": " South Side Community Art Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.622704,
+          41.824596
+        ],
+        "type": "Point"
+      },
+      "id": "8bd38945b8ed306f1d03d62373cd41e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=167&amp;counter=89",
+        " title": " East Village District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.676046,
+          41.903212
+        ],
+        "type": "Point"
+      },
+      "id": "8cd159e8c479cc913bcf7c4d2bdb38ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1541",
+        " title": " Main Building and Machinery Hall Illinois Institute of Technology"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.628925,
+          41.836371
+        ],
+        "type": "Point"
+      },
+      "id": "8e1609542d637f9b4f88f2ac5e894b33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13087",
+        " title": " Stock Yards National Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.646358,
+          41.818776
+        ],
+        "type": "Point"
+      },
+      "id": "8e92b4bb68980b9dfae50db4130eaed6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=18",
+        " title": " McCormick Row House District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.649679,
+          41.923614
+        ],
+        "type": "Point"
+      },
+      "id": "90edb1b953623bb098f0c7fa68d26426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13028&amp;counter=135",
+        " title": " Griffiths-Burroughs House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623532,
+          41.825292
+        ],
+        "type": "Point"
+      },
+      "id": "91550387be1de759c0d4f5e79941723b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11386&amp;counter=52",
+        " title": " Chicago & North Western Railway Powerhouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.641119,
+          41.886152
+        ],
+        "type": "Point"
+      },
+      "id": "923bb3e35449718a0fa3f827f9c23e0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12151",
+        " title": " Palmer House Hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626697,
+          41.880282
+        ],
+        "type": "Point"
+      },
+      "id": "94517db228d8a3d0fcd563c7c645fd53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13044",
+        " title": " Marshfield Trust and Savings Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.670264,
+          41.942264
+        ],
+        "type": "Point"
+      },
+      "id": "947bbc6ad06bfe09580736edd9d3727d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1336&amp;counter=166",
+        " title": " Inland Steel Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.628876,
+          41.881044
+        ],
+        "type": "Point"
+      },
+      "id": "955b7674f5306a5fcefa3dcc55bb0df7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1308&amp;counter=121",
+        " title": " Foster House and Stable"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.63063,
+          41.672788
+        ],
+        "type": "Point"
+      },
+      "id": "95a0e8a549df39ea81a1fb55917ed15c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1327&amp;counter=151",
+        " title": " Holy Trinity Orthodox Cathedral and Rectory"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.681785,
+          41.90185
+        ],
+        "type": "Point"
+      },
+      "id": "9621d7d2407350a693e6e6f9e8897814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1283&amp;counter=75",
+        " title": " Courthouse Place"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629973,
+          41.890234
+        ],
+        "type": "Point"
+      },
+      "id": "9682d814c76e2c7228f63574243e12af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1233&amp;counter=2",
+        " title": " 35 East Wacker Drive Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626784,
+          41.886522
+        ],
+        "type": "Point"
+      },
+      "id": "96a60f42b4131e7e367b608e9643442e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1294&amp;counter=92",
+        " title": " Eighth Regiment Armory"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.619014,
+          41.829845
+        ],
+        "type": "Point"
+      },
+      "id": "9725bf3171900ad3788095f0e80b4bba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1426",
+        " title": " South Pond Refectory and Men's and Ladies' Comfort Station"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.634088,
+          41.918852
+        ],
+        "type": "Point"
+      },
+      "id": "9aa0c67030579d909efe5a73635cfef5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13102&amp;counter=54",
+        " title": " Chicago & Western Indiana Railroad Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.549547,
+          41.666662
+        ],
+        "type": "Point"
+      },
+      "id": "9ae7bbc63f5b7d8b25d7dc80b6b6e67c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1416",
+        " title": " Rosehill Cemetery Entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.675176,
+          41.986493
+        ],
+        "type": "Point"
+      },
+      "id": "9b30a806a04a629f753e43f1df9533c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=12&amp;counter=148",
+        " title": " Historic Michigan Boulevard District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624733,
+          41.884375
+        ],
+        "type": "Point"
+      },
+      "id": "9b921c5acb6d54fa80b327735b45a234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1441",
+        " title": " Union Stock Yard Gate"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.648775,
+          41.818756
+        ],
+        "type": "Point"
+      },
+      "id": "9c80e689eac0c775a45a12faf5ef55e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1271&amp;counter=59",
+        " title": " Chicago Defender Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.621658,
+          41.831739
+        ],
+        "type": "Point"
+      },
+      "id": "9d240b51431a81fc33c2f6692c485338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1390",
+        " title": " One North LaSalle Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.632037,
+          41.88231
+        ],
+        "type": "Point"
+      },
+      "id": "9d7bc5d0f8cdd85cfd2ef9b5bd0b08ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1387",
+        " title": " Old Dearborn Bank Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625852,
+          41.886064
+        ],
+        "type": "Point"
+      },
+      "id": "9d92fb37bc0a044224912a53946dc9e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12842&amp;counter=155",
+        " title": " Humboldt Park Receptory Building &amp; Stable"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.703325,
+          41.902269
+        ],
+        "type": "Point"
+      },
+      "id": "9f147d2bafd2479d62f028748e5ce29f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11383",
+        " title": " Pulaski Park Fieldhouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.663313,
+          41.906768
+        ],
+        "type": "Point"
+      },
+      "id": "9f61bcd6f2b0e3ecc18e798dc557d568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1374",
+        " title": " Montgomery Ward &amp; Co. Catalog House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.643394,
+          41.897641
+        ],
+        "type": "Point"
+      },
+      "id": "a04f1f2a307821ef3e256b448c7bb30e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13262",
+        " title": " Schlitz Brewery Stable at 11314 S. Front Ave. (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.612042,
+          41.688591
+        ],
+        "type": "Point"
+      },
+      "id": "a05d462c925df8ca289d08660e4232b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1408",
+        " title": " Race House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.733633,
+          41.953084
+        ],
+        "type": "Point"
+      },
+      "id": "a081dd10c89c7ef06d8b57d3d6ac402d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1300&amp;counter=113",
+        " title": " Fine Arts Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624718,
+          41.876391
+        ],
+        "type": "Point"
+      },
+      "id": "a0d2291bc84509f8def65155a95167ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=182&amp;counter=27",
+        " title": " Bissell Street District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.652478,
+          41.920069
+        ],
+        "type": "Point"
+      },
+      "id": "a1b6ec5c3cd7a92657c9983f75ec1a5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1285&amp;counter=77",
+        " title": " Daley Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.630177,
+          41.884054
+        ],
+        "type": "Point"
+      },
+      "id": "a24c1f20d73f4357dba7788d6f9ff639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11974&amp;counter=98",
+        " title": " Engine Company 27 (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.63486,
+          41.905165
+        ],
+        "type": "Point"
+      },
+      "id": "a2a1aae91c9cf90b97af54dfb741b5c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13302&amp;counter=182",
+        " title": " Kenwood United Church of Christ"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.599766,
+          41.811232
+        ],
+        "type": "Point"
+      },
+      "id": "a456c9112b65b1a7ff486c0e8a654a78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1455",
+        " title": " Whistle Stop Inn"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.732639,
+          41.953801
+        ],
+        "type": "Point"
+      },
+      "id": "a4af4c095e40d407331e2e67551f16d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1298&amp;counter=110",
+        " title": " F.R. Schock House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.770279,
+          41.889256
+        ],
+        "type": "Point"
+      },
+      "id": "a73e0ee445eed6e89b703feec33760ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11382",
+        " title": " Lion House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.633474,
+          41.921102
+        ],
+        "type": "Point"
+      },
+      "id": "a850ae83323670e05cb6c939ac1a7f00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1302&amp;counter=115",
+        " title": " First Church of Deliverance"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624303,
+          41.816277
+        ],
+        "type": "Point"
+      },
+      "id": "a8b695d405bee85b5ef9c7a4a286b26a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1368",
+        " title": " Metropolitan Missionary Baptist Church"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.681193,
+          41.882787
+        ],
+        "type": "Point"
+      },
+      "id": "a8e430d94d03c9855d4b5aacb988af2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12843&amp;counter=46",
+        " title": " Charles N. Loucks House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.732786,
+          41.952603
+        ],
+        "type": "Point"
+      },
+      "id": "a918f43a7d99fdff443206f944ecdf7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1334&amp;counter=163",
+        " title": " Illinois-Indiana State Line Boundary Marker"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.734954,
+          41.70565
+        ],
+        "type": "Point"
+      },
+      "id": "a9e5ccdd7d86fd8088484fd020035e17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1391",
+        " title": " On Leong Merchants Association Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.632291,
+          41.852396
+        ],
+        "type": "Point"
+      },
+      "id": "aac8048088809628584929ec823bb173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1279&amp;counter=69",
+        " title": " Clarke House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.621862,
+          41.856778
+        ],
+        "type": "Point"
+      },
+      "id": "ac456f5d976e2a4d5577447447f64dd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1281&amp;counter=71",
+        " title": " Congress Theater"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.692014,
+          41.919867
+        ],
+        "type": "Point"
+      },
+      "id": "ac4f2511c3359730fb224bc175c15214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12942&amp;counter=72",
+        " title": " Continental and Commercial Bank Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.632431,
+          41.879185
+        ],
+        "type": "Point"
+      },
+      "id": "ac5eb39e9888f1cfbdfa86d785dfc162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1442",
+        " title": " Unity Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.621938,
+          41.837097
+        ],
+        "type": "Point"
+      },
+      "id": "addb97481e51b0c5fb003edceeef9d5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1324&amp;counter=144",
+        " title": " Heller House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.597107,
+          41.801386
+        ],
+        "type": "Point"
+      },
+      "id": "ae34f225a6cd931fc33d9823522c1531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11979&amp;counter=105",
+        " title": " Engine Company 65 Truck 52"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.374055,
+          41.54326
+        ],
+        "type": "Point"
+      },
+      "id": "aed8c061d218e155111c6b063489f95a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=148",
+        " title": " Newport Avenue District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.663931,
+          41.944332
+        ],
+        "type": "Point"
+      },
+      "id": "af16736183eeb0fc32dfc84b79383f89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1245&amp;counter=18",
+        " title": " Assumption School Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.636557,
+          41.89374
+        ],
+        "type": "Point"
+      },
+      "id": "af6002ea7d9316e6ebb285702a5f12d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1372",
+        " title": " Miller House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.57106,
+          41.76549
+        ],
+        "type": "Point"
+      },
+      "id": "b0bf135de1dd5d280cf862c6ddedb68d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=23",
+        " title": " Old Chicago Water Tower District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623026,
+          41.816542
+        ],
+        "type": "Point"
+      },
+      "id": "b1224b3d7cbaee0fc21ab0e78c80fbca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11972&amp;counter=102",
+        " title": " Engine Company 5 Truck 2"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.644208,
+          41.877222
+        ],
+        "type": "Point"
+      },
+      "id": "b1af9a4ba3cfaf6d085ab1cbd34d6415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13064&amp;counter=100",
+        " title": " Engine Company 42 (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.635314,
+          41.890981
+        ],
+        "type": "Point"
+      },
+      "id": "b1ca5ed66a0fe7dd7550a62e2b2baf79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1393",
+        " title": " Page Brothers Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627623,
+          41.885418
+        ],
+        "type": "Point"
+      },
+      "id": "b2bb3978e78cca08eb464f13f4712c06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1361",
+        " title": " Manhattan Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629084,
+          41.876062
+        ],
+        "type": "Point"
+      },
+      "id": "b2d23c0f808930a045e987e7157c0729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=145",
+        " title": " Terra Cotta Row District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.654966,
+          41.935328
+        ],
+        "type": "Point"
+      },
+      "id": "b379e1857db935db6b842e4956e26f18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13088&amp;counter=37",
+        " title": " Calumet National Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.550816,
+          41.729493
+        ],
+        "type": "Point"
+      },
+      "id": "b4479d1ecf7450a904fa7c368bd5577a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1342&amp;counter=174",
+        " title": " Jewish People's Institute"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.713291,
+          41.863154
+        ],
+        "type": "Point"
+      },
+      "id": "b45a5c4a2e26d6229c42d257e48f7fb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12982",
+        " title": " Vorwaerts Turner Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.687337,
+          41.866384
+        ],
+        "type": "Point"
+      },
+      "id": "b64b54668b04461ecb04408aef871605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1396",
+        " title": " Peoples Gas Irving Park Neighborhood Store"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.748911,
+          41.953095
+        ],
+        "type": "Point"
+      },
+      "id": "b664c90d614243f8801a3d82c60851ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1235&amp;counter=5",
+        " title": " 860-880 Lake Shore Drive"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.618952,
+          41.89909
+        ],
+        "type": "Point"
+      },
+      "id": "b7066be4ad1be4adffe0797498bb09b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13326",
+        " title": " Schlitz Brewery-Tied House at 2159 W. Belmont Ave. (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.683028,
+          41.939301
+        ],
+        "type": "Point"
+      },
+      "id": "b766149086685912519f78003a0840f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13082&amp;counter=157",
+        " title": " Hyde Park-Kenwood National Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.588189,
+          41.799359
+        ],
+        "type": "Point"
+      },
+      "id": "b92ba9fc873cb73bd49b14489cbf6299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1410",
+        " title": " Reebie Storage Warehouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.639534,
+          41.924684
+        ],
+        "type": "Point"
+      },
+      "id": "b9d041c94e2714cf4376d2ba88e7652c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1373",
+        " title": " Monadnock Block"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629566,
+          41.877978
+        ],
+        "type": "Point"
+      },
+      "id": "bb1681cc0640497ede76943568ee35b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "dfhttps://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1457",
+        " title": " Wingert House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.821776,
+          41.994282
+        ],
+        "type": "Point"
+      },
+      "id": "bb2e9b0d9f81e3cde635c0b5bbeb0869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=221",
+        " title": " Milwaukee Avenue District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.67794,
+          41.908416
+        ],
+        "type": "Point"
+      },
+      "id": "bbc3bc3bc4385999822a9641cbb868df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1428",
+        " title": " Statue of The Republic"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.580161,
+          41.780855
+        ],
+        "type": "Point"
+      },
+      "id": "bbf921ce3daa40a6606f0dd8ce2591d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1259&amp;counter=35",
+        " title": " Bush Temple of Music"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.472237,
+          41.629988
+        ],
+        "type": "Point"
+      },
+      "id": "bc0f4c442f747846f57f4aef613a8d7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13065&amp;counter=30",
+        " title": " Blackstone Library"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.59034,
+          41.805837
+        ],
+        "type": "Point"
+      },
+      "id": "bc2bbb491312f874238159c99e3ab390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1253&amp;counter=29",
+        " title": " Blackstone Hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624463,
+          41.87335
+        ],
+        "type": "Point"
+      },
+      "id": "bc77af5e506a6d98510528cc76fa8232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1435",
+        " title": " Three Arts Club"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.630476,
+          41.906019
+        ],
+        "type": "Point"
+      },
+      "id": "bdbb57f25bc831018ec1e0b8346fde5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13006",
+        " title": " Richard Wright House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.613497,
+          41.806666
+        ],
+        "type": "Point"
+      },
+      "id": "bdeecbb67763d6c54190af5994aced58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11981&amp;counter=104",
+        " title": " Engine Company 61"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623744,
+          41.796675
+        ],
+        "type": "Point"
+      },
+      "id": "be529589c98d7a7b1054c28ed5fa7aaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1234&amp;counter=1",
+        " title": " 333 North Michigan Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624203,
+          41.887623
+        ],
+        "type": "Point"
+      },
+      "id": "bef70c629a69e2f067f49d0bec802b0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1379",
+        " title": " Nickerson House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626539,
+          41.894314
+        ],
+        "type": "Point"
+      },
+      "id": "bf9fb4df9cd59cb857beb7f498a2aa84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=24",
+        " title": " Old Edgebrook District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.768701,
+          41.99196
+        ],
+        "type": "Point"
+      },
+      "id": "c00a2e19818f4948e850b4cf37004fa1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1378",
+        " title": " New Regal Theater"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.584051,
+          41.751479
+        ],
+        "type": "Point"
+      },
+      "id": "c1acd400778e06fa7e7568bbf2774953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12012",
+        " title": " Roanoke Building and Tower"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.6321,
+          41.881589
+        ],
+        "type": "Point"
+      },
+      "id": "c333d16f97da7fa75ed2a47d040e85eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1268&amp;counter=55",
+        " title": " Chicago Bee Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626161,
+          41.827986
+        ],
+        "type": "Point"
+      },
+      "id": "c35eddba0cff883959fb02e936025c9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1424",
+        " title": " Sexton School"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.633792,
+          41.901592
+        ],
+        "type": "Point"
+      },
+      "id": "c5e127efdf4df88a92e65071961c452c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1291&amp;counter=87",
+        " title": " DuPont-Whitehouse House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.6865,
+          41.828598
+        ],
+        "type": "Point"
+      },
+      "id": "c63aad5467c2eb05dfdf1147fa8d929a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1303&amp;counter=116",
+        " title": " Fisher Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629011,
+          41.877228
+        ],
+        "type": "Point"
+      },
+      "id": "c78690f7ee56876ba221b9144e27c317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11976&amp;counter=99",
+        " title": " Engine Company 35 Truck 28 (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.677287,
+          41.911259
+        ],
+        "type": "Point"
+      },
+      "id": "c84a6c9781e08d69db2091869ec46478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11397&amp;counter=40",
+        " title": " Canaan Baptist Church of Christ Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.632864,
+          41.772983
+        ],
+        "type": "Point"
+      },
+      "id": "c9598a2a730f3b0d6d51e9b9d7949099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11380&amp;counter=165",
+        " title": " Indian Boundary Park Fieldhouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.693194,
+          42.009803
+        ],
+        "type": "Point"
+      },
+      "id": "cab191080bd35058cb77475a8e0ca9f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1397",
+        " title": " Peoples Gas South Chicago Neighborhood Store"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.550973,
+          41.732594
+        ],
+        "type": "Point"
+      },
+      "id": "cae10f47a7104047166914b792fdd2ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1383",
+        " title": " Site of the First Self-Sustaining Controlled Nuclear Chain Reaction"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.601343,
+          41.793204
+        ],
+        "type": "Point"
+      },
+      "id": "cb3a2fc42e37c937b895af085ca56518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=141&amp;counter=122",
+        " title": " Fremont Row House District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.651365,
+          41.920089
+        ],
+        "type": "Point"
+      },
+      "id": "cb4ee27daf4578b146ebaee38d800bb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1409",
+        " title": " Rath House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.695359,
+          41.927869
+        ],
+        "type": "Point"
+      },
+      "id": "cb4ffd00d1dfe66dc8dcea376c5530bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1287&amp;counter=79",
+        " title": " Delaware Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629246,
+          41.884704
+        ],
+        "type": "Point"
+      },
+      "id": "cb5f95a1bc65c3753c9826ec7a07a576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11398",
+        " title": " Steuben Club Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.633368,
+          41.884876
+        ],
+        "type": "Point"
+      },
+      "id": "cb7392b7e347e72bf2008860e6090067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1356&amp;counter=6",
+        " title": " Abraham Lincoln Monument"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629828,
+          41.899107
+        ],
+        "type": "Point"
+      },
+      "id": "cbec17370b3577137f3539cabbf77917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1412",
+        " title": " Reliance Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.628226,
+          41.883033
+        ],
+        "type": "Point"
+      },
+      "id": "cdf0a3b451a23b0d0eb0abe8895822e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=25",
+        " title": " Old Town Triangle District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.634291,
+          41.898902
+        ],
+        "type": "Point"
+      },
+      "id": "ce70d8e1eed83b165f6002642ddfe297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1344&amp;counter=177",
+        " title": " Kaufmann Store and Flats"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.646976,
+          41.923945
+        ],
+        "type": "Point"
+      },
+      "id": "d10c5db353ff751127e8056d8aa450a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1295&amp;counter=93",
+        " title": " Elam House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.617128,
+          41.808602
+        ],
+        "type": "Point"
+      },
+      "id": "d2e08f83d0dadc56d5815c4802c8dd56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1385",
+        " title": " Old Colony Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629068,
+          41.876646
+        ],
+        "type": "Point"
+      },
+      "id": "d2e1ed056464948347ec01811254ed9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13322",
+        " title": " Schlitz Brewery-Tied House (Former) at 958 W. 69th St."
+      },
+      "geometry": {
+        "coordinates": [
+          -87.649202,
+          41.768999
+        ],
+        "type": "Point"
+      },
+      "id": "d3a2546e635e4f6e27a61b5406c5c424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13068",
+        " title": " Sheridan Trust and Savings Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.659112,
+          41.968766
+        ],
+        "type": "Point"
+      },
+      "id": "d57500f2ecf8cf19f9ea9e2ef51ca307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11381",
+        " title": " Site of the John and Mary Jones House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.628109,
+          41.871849
+        ],
+        "type": "Point"
+      },
+      "id": "d7a238efa81b732b912ac548f3f716b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=142&amp;counter=134",
+        " title": " Greenwood Row House District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.599996,
+          41.800749
+        ],
+        "type": "Point"
+      },
+      "id": "d835683746b8adc3bf6ae944cbde5474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1296&amp;counter=94",
+        " title": " Eliel House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.602647,
+          41.819257
+        ],
+        "type": "Point"
+      },
+      "id": "da8f01b53128d2c91996cbaa0f8c87b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11390",
+        " title": " McGill House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.604824,
+          41.804691
+        ],
+        "type": "Point"
+      },
+      "id": "db37570c126753bffa2873b322fa1db2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13162&amp;counter=128",
+        " title": " George Cleveland Hall Branch Chicago Public Library"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.622222,
+          41.807183
+        ],
+        "type": "Point"
+      },
+      "id": "db4ea3f1f3254502b29f90ccbc5fcc9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11385&amp;counter=85",
+        " title": " Dr. Wallace C. Abbott House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.672179,
+          41.965431
+        ],
+        "type": "Point"
+      },
+      "id": "dbaa8e9567a48ff64faeb68c305a5397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12963&amp;counter=158",
+        " title": " IBM Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627498,
+          41.88863
+        ],
+        "type": "Point"
+      },
+      "id": "dc9c47d0722cf441e08baec4bb5ccce2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1446",
+        " title": " Wabash Avenue YMCA"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.62438,
+          41.825618
+        ],
+        "type": "Point"
+      },
+      "id": "dcf49bd1a75f3c621a52db4a0fb2747a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1402",
+        " title": " Powhatan Apartments"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.584493,
+          41.80453
+        ],
+        "type": "Point"
+      },
+      "id": "dd14ddf3de7eb8e28b9b7854157bb9d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12922&amp;counter=74",
+        " title": " Cosmopolitan State Bank Building (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.630846,
+          41.89682
+        ],
+        "type": "Point"
+      },
+      "id": "dd8970c7ce8d085356f0721e2354798b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1413",
+        " title": " Robie House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.595932,
+          41.789803
+        ],
+        "type": "Point"
+      },
+      "id": "deaa8dd9b687570fe322220cf51f8316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13324",
+        " title": " Schlitz Brewery-Tied House at 3456 S. Western Ave. (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.685326,
+          41.830434
+        ],
+        "type": "Point"
+      },
+      "id": "deb7656e81e164745bb6a0d2b4cbb598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1521",
+        " title": " Wood-Maxey-Boyd House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.619947,
+          41.843258
+        ],
+        "type": "Point"
+      },
+      "id": "df8c0cac97e550a815ed7d6cc94c2b8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1236&amp;counter=7",
+        " title": " Adams House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.670076,
+          41.724063
+        ],
+        "type": "Point"
+      },
+      "id": "e011146bec817751ecb6370076fffe4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1325&amp;counter=147",
+        " title": " Heyworth Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626696,
+          41.881912
+        ],
+        "type": "Point"
+      },
+      "id": "e01267f1b4ae36d503ccbb93aa2a1279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1288&amp;counter=81",
+        " title": " Dewes (Francis) House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.641503,
+          41.930339
+        ],
+        "type": "Point"
+      },
+      "id": "e06813ab66ec002b56420e0d0d5c10bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=1&amp;counter=11",
+        " title": " Alta Vista Terrace District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.65663,
+          41.951839
+        ],
+        "type": "Point"
+      },
+      "id": "e072278e7ff733b4754bd36e6e10aa07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=281&amp;counter=48",
+        " title": " Chatham-Greater Grand Crossing Commercial District District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.589571,
+          41.75873
+        ],
+        "type": "Point"
+      },
+      "id": "e18ba2e50e9293593175392a2a8c3ff4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1345&amp;counter=178",
+        " title": " Keck-Gottschalk-Keck Apartments"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.597791,
+          41.793533
+        ],
+        "type": "Point"
+      },
+      "id": "e216666a91349472172dabed600442b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13182&amp;counter=0",
+        " title": " 300 West Adams Street Office Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.635747,
+          41.879718
+        ],
+        "type": "Point"
+      },
+      "id": "e2bad5518952f433693714fef857752d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1273&amp;counter=60",
+        " title": " Chicago Harbor Lighthouse"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.756651,
+          41.95731
+        ],
+        "type": "Point"
+      },
+      "id": "e40cfefd2b7e5b883b775fa2f11989ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=183&amp;counter=16",
+        " title": " Arlington-Deming District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.646329,
+          41.925497
+        ],
+        "type": "Point"
+      },
+      "id": "e47f3d7a8eacf6c749a0df25d55c3e69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1328&amp;counter=153",
+        " title": " Hotel St. Benedict Flats"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626696,
+          41.896847
+        ],
+        "type": "Point"
+      },
+      "id": "e5b7cbef25e942326e249ce31dfbc519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1312&amp;counter=127",
+        " title": " Gauler Twin Houses"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.661291,
+          41.989684
+        ],
+        "type": "Point"
+      },
+      "id": "e5e0b2c5570f7eabc8039c76a4be5fae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1246&amp;counter=20",
+        " title": " Auditorium Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624855,
+          41.875995
+        ],
+        "type": "Point"
+      },
+      "id": "e6b74cc8f04bd0243a5f71b7fa686bd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1290",
+        " title": " Stephen A. Douglas Tomb"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.61064,
+          41.831234
+        ],
+        "type": "Point"
+      },
+      "id": "e7c6e842829a98d16e6d05e18e64fcc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1430",
+        " title": " Sunset Cafe"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.618598,
+          41.830858
+        ],
+        "type": "Point"
+      },
+      "id": "e834cda913fc148539ba059b341c95aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13144",
+        " title": " Pennsylvania Railroad Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623265,
+          41.888515
+        ],
+        "type": "Point"
+      },
+      "id": "e8828ef40d2de579e5ebbd13fddb33f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1415",
+        " title": " Rookery Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.631857,
+          41.879089
+        ],
+        "type": "Point"
+      },
+      "id": "e8cc56190eb12708f16ff9c2b4f208fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1293&amp;counter=91",
+        " title": " Eighth Church of Christ Scientist"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.622489,
+          41.815001
+        ],
+        "type": "Point"
+      },
+      "id": "e8f316a00c293339c1e3048899f1d737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13005",
+        " title": " Lindblom (Robert) Technical High School Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.672136,
+          41.782065
+        ],
+        "type": "Point"
+      },
+      "id": "e920df92c73aefae4f4e05b202631625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=147",
+        " title": " Oakdale Avenue District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.649115,
+          41.935442
+        ],
+        "type": "Point"
+      },
+      "id": "e93d6bfefba8c32a00b914254937a6ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1389",
+        " title": " Oliver Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.629277,
+          41.88492
+        ],
+        "type": "Point"
+      },
+      "id": "e992625323745a871cdf2f9900cbb4b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1256&amp;counter=33",
+        " title": " Bryn Mawr-Belle Shore Apartment Hotels"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.657002,
+          41.983542
+        ],
+        "type": "Point"
+      },
+      "id": "eaaf2e3ce053294dea5f72df315e4a2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12965&amp;counter=4",
+        " title": " 6901 Oglesby Cooperative Apartment Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.567933,
+          41.769581
+        ],
+        "type": "Point"
+      },
+      "id": "eb93e6468f84e5e3e442a3a88b7a7556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13026",
+        " title": " Lincoln Avenue Row House District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.637471,
+          41.917149
+        ],
+        "type": "Point"
+      },
+      "id": "ecf9a8916bbfd8033c7eaf7b4393b370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1421",
+        " title": " Sears Roebuck and Company Administration Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.709622,
+          41.869682
+        ],
+        "type": "Point"
+      },
+      "id": "ed77e6fd0ccf801f58085232f99756b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13004",
+        " title": " Shoreland Hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.567065,
+          41.772961
+        ],
+        "type": "Point"
+      },
+      "id": "ee1132989d902afb265917215cf40872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1266&amp;counter=47",
+        " title": " Charnley House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.627524,
+          41.907644
+        ],
+        "type": "Point"
+      },
+      "id": "ee3dd73ab41a26e06fa5853c4cdac1f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=146",
+        " title": " Logan Square Boulevards District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.70463,
+          41.921037
+        ],
+        "type": "Point"
+      },
+      "id": "ee5a7d92a2a6cd86757f49bc847d11ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1434",
+        " title": " Theurer-Wrigley House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.639548,
+          41.927544
+        ],
+        "type": "Point"
+      },
+      "id": "eeb8bf53879a433d11fcfce045f376ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13325",
+        " title": " Schlitz Brewery-Tied House at 11400 S. Front Ave. (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.611534,
+          41.688878
+        ],
+        "type": "Point"
+      },
+      "id": "eebdba2356f94a8eaf4e91fda1a3cfd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13084",
+        " title": " Swedish American State Bank (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.668535,
+          41.979964
+        ],
+        "type": "Point"
+      },
+      "id": "ef7e6d3516fa02d8fa517186384269fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1339&amp;counter=169",
+        " title": " Jackson/Thomas House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.682042,
+          42.010355
+        ],
+        "type": "Point"
+      },
+      "id": "eff87d80641e6efacba99428da882d02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11392&amp;counter=3",
+        " title": " 63rd Street Bathing Pavilion"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.581668,
+          41.803347
+        ],
+        "type": "Point"
+      },
+      "id": "f0629191aa6f3eae07633a684cc4179f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1343&amp;counter=176",
+        " title": " K.A.M. Isaiah Israel Temple"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.598619,
+          41.802888
+        ],
+        "type": "Point"
+      },
+      "id": "f21c4f049e2e4de5896511b81b27cb21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=12902&amp;counter=175",
+        " title": " John and Clara Merchant House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.738403,
+          41.951474
+        ],
+        "type": "Point"
+      },
+      "id": "f286e1c88382a7706b958b6d1b1674ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1524",
+        " title": " South Shore Cultural Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.563868,
+          41.768301
+        ],
+        "type": "Point"
+      },
+      "id": "f2b21f3d60dc00f5579ce72212f7420d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1351",
+        " title": " Lake-Franklin Group"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.63507,
+          41.885369
+        ],
+        "type": "Point"
+      },
+      "id": "f2d849288ba249e660f0677af75bd192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13122&amp;counter=65",
+        " title": " Chicago Milwaukee & St. Paul Railway Bridge No. Z-2"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.654253,
+          41.902035
+        ],
+        "type": "Point"
+      },
+      "id": "f3be35bb2f546cb36781a8c190ae1abc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=9&amp;counter=88",
+        " title": " East Lake Shore Drive District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.620501,
+          41.900625
+        ],
+        "type": "Point"
+      },
+      "id": "f513a8b38a8bd7b21cd3dafa1287ae57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1248&amp;counter=22",
+        " title": " Bachman House"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.661677,
+          41.974794
+        ],
+        "type": "Point"
+      },
+      "id": "f5213b41f467ea699bd234442b3ff44b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/districtdetails.htm?disId=5&amp;counter=25",
+        " title": " Beverly/Morgan Park Railroad Station District"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.610485,
+          41.692779
+        ],
+        "type": "Point"
+      },
+      "id": "f6968364930f5b9aff501465a78662ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13002",
+        " title": " Village Theater"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.63181,
+          41.910795
+        ],
+        "type": "Point"
+      },
+      "id": "f71f4744150877a6351c3cb3e96498be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11978&amp;counter=108",
+        " title": " Engine Company 86 (Former)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.689193,
+          41.955239
+        ],
+        "type": "Point"
+      },
+      "id": "f75885944a1ca3e4a4937e750eba3a9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=13063",
+        " title": " Union Park Hotel (formerly the Viceroy Hotel)"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.666117,
+          41.882118
+        ],
+        "type": "Point"
+      },
+      "id": "f7d674ef18b64b8c4756231879b5e7d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1459",
+        " title": " Yondorf Block and Hall"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.647973,
+          41.911172
+        ],
+        "type": "Point"
+      },
+      "id": "f85614c50dfeb728be21aec33079112d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1392",
+        " title": " Overton Hygienic Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.626178,
+          41.828978
+        ],
+        "type": "Point"
+      },
+      "id": "f8e084da2bdd35271fcf1563c31e7cde"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1401",
+        " title": " Pittsfield Building"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.625772,
+          41.883054
+        ],
+        "type": "Point"
+      },
+      "id": "f94cfb6d3eb6bba57968c4821d08db78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1311&amp;counter=125",
+        " title": " Garfield Boulevard 'L' Station and Overpass"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.618316,
+          41.794437
+        ],
+        "type": "Point"
+      },
+      "id": "fc1e8272de9c9aff656ddec8236dfa7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=1369",
+        " title": " Michigan Avenue Bridge and Esplanade"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.623265,
+          41.888515
+        ],
+        "type": "Point"
+      },
+      "id": "fd8fb1c74d5d5cfb92976e2b97fe9a95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link": "https://webapps1.chicago.gov/landmarksweb/web/landmarkdetails.htm?lanId=11486",
+        " title": " Truevine Missionary Baptist Church"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.63526,
+          41.771892
+        ],
+        "type": "Point"
+      },
+      "id": "feee3434529b091a89c6ba20eee577e6"
+    }
+  ]
+}
